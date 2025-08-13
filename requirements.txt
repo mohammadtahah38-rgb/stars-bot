@@ -1,1 +1,2 @@
-
+pyTelegram8301827690:AAG62x2naz4okPNVf9-Z6xmXZAxPN4F7B9U
+python-dotenv
